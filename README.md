@@ -20,7 +20,7 @@ Configure the required database settings.
 Configure security groups to allow the EC2 instance to communicate with RDS.
 
 ## Project Documentation
-📄 [View Project Documentation (PDF)](./AWS_RDS_EC2_MySQL.pdf)
+📄 [View Project Documentation (PDF)](./AWS_RDS_EC2_MySQL_.pdf)
 
 Author
 PRIYA HARAL
